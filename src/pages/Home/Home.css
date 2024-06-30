@@ -1,0 +1,19 @@
+
+.background{
+    background-color: #ffd6b6;
+    height: 100%;
+}
+
+.logo{
+   width: 20%;
+   height: 20%;
+   margin-left: 40%;
+   margin-bottom: 9%;
+}
+
+@media (max-width: 480px) {
+    .logo{
+        margin: 40%;
+        margin-bottom: 60%;
+     }
+}

@@ -1,0 +1,13 @@
+
+.header{
+    background-color: #a43a3a;
+}
+
+#title{
+    font-family: "Monoton";
+    font-size: 3.5rem;
+    font-weight: 80;
+    letter-spacing: -0.1rem;
+    text-align: center;
+    color: #ffd6b6;
+}
